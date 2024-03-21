@@ -91,7 +91,7 @@
     overflow: hidden;
   }
 
-  .component__title {
+  .component__title, h1 {
     font-size: 22px;
     padding-top: 2rem; 
     padding-bottom: 0.5rem;
